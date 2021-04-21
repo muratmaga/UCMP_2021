@@ -43,15 +43,15 @@
 * ### [Transforms Core Slicer Module](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/Models/Models.md) 
 
 # Day 2: Friday April 23rd
-Concepts to cover:
+Concepts to cover: (Links takes you to the module descriptions and documentation. )
 * Very brief presentation on GMM concepts
 * Measurements (lengths, angles, areas) and Landmarks via Markups module
-* Curve-based and patch-based semi-landmarking
+* Curve-based and [patch-based semi-landmarking](https://github.com/SlicerMorph/SlicerMorph/tree/master/Docs/CreateSemiLMPatches)
 * Transfering semiLMs to new samples via PlaceSemiLMPatches or ProjectSemiLMs
-* PseudoLMGenerator: How to create pseudo-landmark templates
-* MarkupEditor (to retouch pseudoLMs and others)
-* MergeMarkups (to join fixed and semiLMs into a single markup node)
-* GPA module in SlicerMorph
+* [PseudoLMGenerator: How to create pseudo-landmark templates](https://github.com/SlicerMorph/SlicerMorph/tree/master/Docs/PseudoLMGenerator)
+* [MarkupEditor (to retouch pseudoLMs and others)](https://github.com/SlicerMorph/SlicerMorph/tree/master/Docs/MarkupEditor)
+* [MergeMarkups (to join fixed and semiLMs into a single markup node)](https://github.com/SlicerMorph/SlicerMorph/tree/master/Docs/MergeMarkups)
+* [GPA module in SlicerMorph](https://github.com/SlicerMorph/SlicerMorph/tree/master/Docs/GPA)
 
 ## Tutorials for Friday April 16th
 
