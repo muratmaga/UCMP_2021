@@ -1,6 +1,6 @@
 # SlicerMorph UCMP Workshop
 
-## Day 1: Friday April 16th
+# Day 1: Friday April 16th
 
 * Imaging concepts, overall review of tasks in 3D digital morphology
 * Nut and bolts of working with Slicer
@@ -10,7 +10,7 @@
 * Building Models and exporting, sharing data/anatomy/segmentation
 * Importance of preserving scale, format discussions.
 
-## Tutorials for the day
+## Tutorials for Friday April 16th
 
 * ### [SlicerMorph Preferences (SlicerMorph Specific)](https://github.com/SlicerMorph/Tutorials/tree/main/MorphPrefs)
 
@@ -41,3 +41,28 @@
     * #### [Surface Toolbox, Dynamic Modeler (Core Slicer Module)](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/Surface_Toolbox/Mesh_edits.md)
 
 * ### [Transforms Core Slicer Module](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/Models/Models.md) 
+
+# Day 2: Friday April 23rd
+Concepts to cover:
+* Very brief presentation on GMM concepts
+* Measurements (lengths, angles, areas) and Landmarks via Markups module
+* Curve-based and patch-based semi-landmarking
+* Transfering semiLMs to new samples via PlaceSemiLMPatches or ProjectSemiLMs
+* PseudoLMGenerator: How to create pseudo-landmark templates
+* MarkupEditor (to retouch pseudoLMs and others)
+* MergeMarkups (to join fixed and semiLMs into a single markup node)
+* GPA module in SlicerMorph
+
+## Tutorials for Friday April 16th
+
+* ### [Markups-1: Intro)](https://github.com/SlicerMorph/Tutorials/tree/main/Markups_1)
+* ### [Markups-2: Resampling Curves)](https://github.com/SlicerMorph/Tutorials/tree/main/Markups_2)
+* ### [Patch-based semiLM -includes transfer of semiLMs](https://github.com/SlicerMorph/Tutorials/tree/main/CreateSemiLMPatches)
+* ### [PseudoLMGenerator](https://github.com/SlicerMorph/Tutorials/tree/main/PseudoLMGenerator)
+* ### [MarkupEditor](https://github.com/SlicerMorph/Tutorials/tree/main/MarkupsEditor)
+* ### [MergeMarkups](https://github.com/SlicerMorph/Tutorials/tree/main/MergeMarkups)
+* ### [GPA-1: Setting the analysis](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_1)
+* ### [GPA-2: Interactive 3D visualization of PCA space](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_2)
+
+
+
