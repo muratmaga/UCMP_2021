@@ -53,7 +53,7 @@ Concepts to cover: (Links takes you to the module descriptions and documentation
 * [MergeMarkups (to join fixed and semiLMs into a single markup node)](https://github.com/SlicerMorph/SlicerMorph/tree/master/Docs/MergeMarkups)
 * [GPA module in SlicerMorph](https://github.com/SlicerMorph/SlicerMorph/tree/master/Docs/GPA)
 
-## Tutorials for Friday April 16th
+## Tutorials for Friday April 23rd
 
 * ### [Markups-1: Intro)](https://github.com/SlicerMorph/Tutorials/tree/main/Markups_1)
 * ### [Markups-2: Resampling Curves)](https://github.com/SlicerMorph/Tutorials/tree/main/Markups_2)
