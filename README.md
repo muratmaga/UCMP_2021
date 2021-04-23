@@ -44,6 +44,7 @@
 
 # Day 2: Friday April 23rd
 Concepts to cover: (Links takes you to the module descriptions and documentation. )
+* Recap from Day 1 (Import->Visualize->Segment pipeline, a few segmentation recipes, keyboard short-cuts etc).
 * Very brief presentation on GMM concepts
 * Measurements (lengths, angles, areas) and Landmarks via Markups module
 * Curve-based and [patch-based semi-landmarking](https://github.com/SlicerMorph/SlicerMorph/tree/master/Docs/CreateSemiLMPatches)
