@@ -75,7 +75,8 @@ Concepts to cover: (Links takes you to the module descriptions and documentation
 
 ## Tutorials for Friday April 23rd
 
-* ### [ALPACA)](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA)
+* ### [ALPACA](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA)
+* ### [ALPACA video explanation by Dr. Porto](https://www.youtube.com/watch?v=ZRikzsUBeAE)
 * ### [Auto3Dgm)](https://toothandclaw.github.io/how-to-use/)
 * ### [Auto3Dgm video tutorial](https://www.dropbox.com/sh/sv8328dvpczezkk/AAAfNHWUL5HThQHG1wGNUdNua?dl=0&preview=Auto3dgm_tutorial.mp4)
 * ### [Moving Data to R](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_3)
