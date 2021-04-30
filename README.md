@@ -65,5 +65,19 @@ Concepts to cover: (Links takes you to the module descriptions and documentation
 * ### [GPA-1: Setting the analysis](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_1)
 * ### [GPA-2: Interactive 3D visualization of PCA space](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_2)
 
+# Day 3: Friday April 30th
+* ALPACA: Automated Landmarking through Point Cloud Alignment
+* Putting everything together, Landmarking decision tree
+* Moving data into R (the new SlicerMorphR package).
+* Auto3dGM
+* Simulating deformations via Fiducial Registration Wizard
+* Odds and ends, Q&A
+
+## Tutorials for Friday April 23rd
+
+* ### [ALPACA)](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA)
+* ### [Auto3Dgm)](https://toothandclaw.github.io/how-to-use/)
+* ### [Auto3Dgm video tutorial](https://www.dropbox.com/sh/sv8328dvpczezkk/AAAfNHWUL5HThQHG1wGNUdNua?dl=0&preview=Auto3dgm_tutorial.mp4)
+* ### [Moving Data to R](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_3)
 
 
