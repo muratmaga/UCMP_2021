@@ -66,8 +66,9 @@ Concepts to cover: (Links takes you to the module descriptions and documentation
 * ### [GPA-2: Interactive 3D visualization of PCA space](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_2)
 
 # Day 3: Friday April 30th
-* ALPACA: Automated Landmarking through Point Cloud Alignment
-* Putting everything together, Landmarking decision tree
+* [ALPACA: Automated Landmarking through Point Cloud Alignment](https://github.com/SlicerMorph/SlicerMorph/tree/master/Docs/ALPACA)
+* Putting everything together
+* [Landmarking decision tree](https://github.com/SlicerMorph/Spr_2021/blob/main/DecisionTrees/Landmarking.png)
 * Moving data into R (the new SlicerMorphR package).
 * Auto3dGM
 * Simulating deformations via Fiducial Registration Wizard
